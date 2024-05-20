@@ -4,7 +4,7 @@
 1. Utwórz folder w którym będą się znajdować pliki `GameUI.java`, `HangmanGame.java`, `WordManager.java`.
 2. Stwórz plik `words.txt` z przynajmniej dziesięcioma słowami w folderze gdzie znajdują się powyższe pliki. - jest to zbędne jeżeli już posiadasz taki plik
 3. Utwórz folder w visual studio code lub w innym tego typu programie.
-4. Potrzebne jest rozszerzenie `Extension pack for java` (podczas pierwszego uruchamiania powinno w visual code pokazać się w prawym dolnym rogu komunikat z możliwością zainstalowania rozszerzenia)
+4. Potrzebne jest rozszerzenie `Extension pack for java` (podczas pierwszego uruchamiania powinno w visual studio code pokazać się w prawym dolnym rogu komunikat z możliwością zainstalowania rozszerzenia)
 5. Kompiluj program będąc w pliku `GameUI.java`.
 
 # Instrukcja gry
