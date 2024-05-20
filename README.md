@@ -1,4 +1,4 @@
-2. Gra w wisielca
+# 2. Gra w wisielca
 
 # Instrukcja uruchomiania gry
 1. Utwórz folder w którym będą się znajdować pliki `GameUI.java`, `HangmanGame.java`, `WordManager.java`.
