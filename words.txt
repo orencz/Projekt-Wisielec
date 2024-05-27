@@ -2,9 +2,9 @@ apple
 banana
 cherry
 date
-elderberry
-fig
+poland
+german
 grape
-honeydew
+juice
 kiwi
 lemon
